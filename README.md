@@ -60,7 +60,7 @@ distribution](figures/styled/probe-density-main.png)
 
 
 
-# RIPE Atlas vantage points
+# Cloud datacenters
 
 We targeted virtual machines hosted in 189 datacenters around the
 world.
