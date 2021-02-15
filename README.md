@@ -1,17 +1,14 @@
 # Surrounded by the Clouds: a Comprehensive Cloud Reachability Study
 
+**The paper is accepted at The Web Conference 2021, former ACM WWW!
+Check the paper out
+[here](https://lorenzocorneo.github.io/papers/2021-www.pdf)**
+
 
 ---
 
-**The paper is accepted at The Web Conference 2021, former ACM WWW!**
-
-**Check the paper out [here](https://lorenzocorneo.github.io/papers/2021-www.pdf)**
 
 # Abstract
-
-
----
-
 
 In the early days of cloud computing, datacenters were sparsely
 deployed at distant locations far from end-users with high end-to-end
@@ -31,3 +28,6 @@ applications, such as augmented reality. Our results indicate that the
 current cloud coverage can easily support several latency-critical
 applications, like cloud gaming, for the majority of the world’s
 population.
+
+
+---
