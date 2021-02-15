@@ -46,3 +46,27 @@ population.
 
 
 ---
+
+
+# Dataset
+
+The raw dataset is available at
+[mediaTUM](https://mediatum.ub.tum.de/1593899). We encourage to cite
+this dataset in academic publications upon usage.
+
+```
+@misc{dataset,
+	author = {Eder, Maximilian and Corneo, Lorenzo and Mohan, Nitinder and Zavodovski, Aleksandr and Bayhan, Suzan and Wong, Walter and Gunningberg, Per and Kangasharju, Jussi and Ott, Jörg},
+	title = {Surrounded by the Clouds},
+	publisher = {Technical University of Munich},
+	url = {https://mediatum.ub.tum.de/1593899},
+    doi = {10.14459/2020mp1593899},
+    year = 2021,
+	type = {Dataset},
+	keywords = {Cloud, Edge computing; RIPE Atlas; Cloud connectivity; Internet measurements},
+	abstract = {Cloud datacenter to user connectivity dataset collected over RIPE Atlas. The dataset accompanies research article "Surrounded by the Cloud" accepted at The Web Conference 2021},
+	language = {en},
+}
+```
+
+The data consists of a SQLite3 database that contains
