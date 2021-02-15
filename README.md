@@ -51,8 +51,9 @@ population.
 # Dataset
 
 The raw dataset is available at
-[mediaTUM](https://mediatum.ub.tum.de/1593899). We encourage to cite
-this dataset in academic publications upon usage.
+[mediaTUM](https://mediatum.ub.tum.de/1593899) with detailed
+information on how to set it up. We encourage to cite this dataset in
+academic publications upon usage.
 
 ```
 @misc{dataset,
@@ -69,4 +70,20 @@ this dataset in academic publications upon usage.
 }
 ```
 
-The data consists of a SQLite3 database that contains
+The data consists of a 60GB SQLite3 database that contains all the
+measurements taken with the RIPE Atlas platform. The dataset includes
+both `ping`s, `traceroute`s and information regarding the ownership of
+the identified IP addresses.
+
+
+---
+
+
+# Usage instructions :construction_worker:
+
+In order to reproduce our results, some non-default Python libraries
+need to be installed with the following command:
+
+```
+pip install -r requirements.txt
+```
