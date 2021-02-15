@@ -12,7 +12,7 @@ from shapely.geometry import MultiPolygon, Polygon
 from commons import COLORS_MAP, WIDTH_IN
 from continents import get_continent
 
-with open("./data/merged-ds-pings.csv", "r") as f:
+with open("./data/pings.csv", "r") as f:
     ds = defaultdict(list)
     for l in f.readlines():
         line = l.rstrip("\n").split(",")

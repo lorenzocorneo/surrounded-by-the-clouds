@@ -50,7 +50,6 @@ ax.legend(
     loc="best",
 )
 
-plt.grid(axis="x")
+plt.grid(axis="y")
 plt.subplots_adjust(top=0.98, bottom=0.12, left=0.1, right=0.99)
 plt.savefig("figures/figure-5.pdf")
-plt.show()
