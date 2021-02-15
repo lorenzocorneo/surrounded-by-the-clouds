@@ -96,7 +96,9 @@ the very same databese. In order to access such data, unzip
 run the following command, from the folder's root, to generate all the
 figures from the paper.
 
-```sh generate_figure.sh```
+```
+sh generate_figure.sh
+```
 
 The output of the script will be placed in the `figures/` folder and
 each figure will be named after the figure identifier from the paper.
