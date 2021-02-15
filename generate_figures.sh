@@ -1,0 +1,11 @@
+python src/plot-figure-1a.py
+python src/plot-figure-2.py
+python src/plot-figure-3.py
+python src/plot-figure-4.py
+python src/plot-figure-5.py
+python src/plot-figure-6.py
+python src/plot-figure-7.py
+python src/plot-figure-8.py
+python src/plot-figure-9.py
+python src/plot-figure-10.py
+python src/plot-figure-11.py
