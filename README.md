@@ -1,8 +1,23 @@
-# Surrounded by the Clouds: a Comprehensive Cloud Reachability Study
+# :cloud:Surrounded by the Clouds: a Comprehensive Cloud Reachability Study:cloud::cloud:
 
-**The paper is accepted at The Web Conference 2021, former ACM WWW :tada::sparkler:!
-Check the paper out
-[here](https://lorenzocorneo.github.io/papers/2021-www.pdf):page_with_curl::page_with_curl:**
+Lorenzo Corneo<sup>1</sup>, Maximilian Eder<sup>2</sup>, Nitinder
+Mohan<sup>2</sup>, Aleksandr Zavodovski<sup>1</sup>, Suzan
+Bayhan<sup>3</sup>, Walter Wong<sup>4</sup>, Per Gunningberg<sup>1</sup>,
+Jussi Kangasharju<sup>4</sup>,Jörg Ott<sup>2</sup>
+
+Uppsala University<sup>1</sup>, Technical University of
+Munich<sup>2</sup>, University of Twente<sup>3</sup>, University of
+Helsinki<sup>4</sup>
+
+
+---
+
+
+This repository contains useful code to replicate the results that are
+included in our publication *Surrounded by the Clouds: A Comprehensive
+Cloud Reachability Study*, which is accepted at **The Web Conference
+2021**:tada::sparkler:. Check the paper out
+[here](https://lorenzocorneo.github.io/papers/2021-www.pdf):page_with_curl::page_with_curl:
 
 
 ---
