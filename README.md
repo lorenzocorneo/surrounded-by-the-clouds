@@ -93,7 +93,19 @@ pre-fetched data and avoid extremely time-consuming queries to the
 SQLite3 database. However, these pre-fetcehd data were extracted by
 the very same databese. In order to access such data, unzip
 `data/data.zip` and delete the compressed file (if you wish). Then,
-run `sh generate_figure.sh` to generate all the figures from the
-paper. The output of the script will be placed in the `figures/`
-folder and each figure will be named after the figure identifier from
-the paper.
+run the following command, from the folder's root, to generate all the
+figures from the paper.
+
+```sh generate_figure.sh```
+
+The output of the script will be placed in the `figures/` folder and
+each figure will be named after the figure identifier from the paper.
+
+
+---
+
+
+# Contact
+
+Please feel free to contact me for further details at
+<lorenzo.corneo@it.uu.se>.
