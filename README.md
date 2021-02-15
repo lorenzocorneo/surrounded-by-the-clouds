@@ -1,8 +1,8 @@
 # Surrounded by the Clouds: a Comprehensive Cloud Reachability Study
 
-**The paper is accepted at The Web Conference 2021, former ACM WWW!
+**The paper is accepted at The Web Conference 2021, former ACM WWW :tada::sparkler:!
 Check the paper out
-[here](https://lorenzocorneo.github.io/papers/2021-www.pdf)**
+[here](https://lorenzocorneo.github.io/papers/2021-www.pdf):page_with_curl::page_with_curl:**
 
 
 ---
