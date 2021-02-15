@@ -49,7 +49,8 @@ population.
 
 # RIPE Atlas vantage points
 
-We used up to 8500 RIPE Atlas probes in our measurements.
+We used up to 8500 RIPE Atlas probes in our measurements. Here is
+their density distribution.
 
 ![Vantage points
 distribution](figures/styled/probe-density-main.png)
@@ -63,6 +64,9 @@ distribution](figures/styled/probe-density-main.png)
 
 We targeted virtual machines hosted in 189 datacenters around the
 world.
+
+![Vantage points
+distribution](figures/styled/endpoints.png)
 
 
 ---
