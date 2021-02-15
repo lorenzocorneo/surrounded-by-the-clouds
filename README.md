@@ -52,7 +52,7 @@ population.
 We used up to 8500 RIPE Atlas probes in our measurements.
 
 ![Vantage points
-distribution]("https://github.com/lorenzocorneo/surrounded-by-the-clouds/blob/main/figures/styled/probe-density-main.png")
+distribution](figures/styled/probe-density-main.png)
 
 
 ---
