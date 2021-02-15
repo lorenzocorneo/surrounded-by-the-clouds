@@ -16,7 +16,7 @@ Helsinki<sup>4</sup>
 This repository contains useful code to replicate the results that are
 included in our publication *Surrounded by the Clouds: A Comprehensive
 Cloud Reachability Study*, which is accepted at **The Web Conference
-2021**:tada::sparkler:. Check the paper out
+2021**. Check the paper out
 [here](https://lorenzocorneo.github.io/papers/2021-www.pdf):page_with_curl::page_with_curl:
 
 
@@ -43,6 +43,26 @@ applications, such as augmented reality. Our results indicate that the
 current cloud coverage can easily support several latency-critical
 applications, like cloud gaming, for the majority of the world’s
 population.
+
+
+---
+
+# RIPE Atlas vantage points
+
+We used up to 8500 RIPE Atlas probes in our measurements.
+
+![Vantage points
+distribution]("figures/styled/probe-density-main.png")
+
+
+---
+
+
+
+# RIPE Atlas vantage points
+
+We targeted virtual machines hosted in 189 datacenters around the
+world.
 
 
 ---
@@ -79,7 +99,7 @@ the identified IP addresses.
 ---
 
 
-# Usage instructions :construction_worker:
+# Usage instructions
 
 In order to reproduce our results, some non-default Python libraries
 need to be installed with the following command:
