@@ -87,3 +87,13 @@ need to be installed with the following command:
 ```
 pip install -r requirements.txt
 ```
+
+In order to make the results replication smoother, we provide
+pre-fetched data and avoid extremely time-consuming queries to the
+SQLite3 database. However, these pre-fetcehd data were extracted by
+the very same databese. In order to access such data, unzip
+`data/data.zip` and delete the compressed file (if you wish). Then,
+run `sh generate_figure.sh` to generate all the figures from the
+paper. The output of the script will be placed in the `figures/`
+folder and each figure will be named after the figure identifier from
+the paper.
