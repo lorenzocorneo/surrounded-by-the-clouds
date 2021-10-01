@@ -80,18 +80,51 @@ information on how to set it up. We encourage to cite this dataset in
 academic publications upon usage.
 
 ```
-@misc{dataset,
-	author = {Eder, Maximilian and Corneo, Lorenzo and Mohan, Nitinder and Zavodovski, Aleksandr and Bayhan, Suzan and Wong, Walter and Gunningberg, Per and Kangasharju, Jussi and Ott, Jörg},
-	title = {Surrounded by the Clouds},
-	publisher = {Technical University of Munich},
-	url = {https://mediatum.ub.tum.de/1593899},
-    doi = {10.14459/2020mp1593899},
-    year = 2021,
-	type = {Dataset},
-	keywords = {Cloud, Edge computing; RIPE Atlas; Cloud connectivity; Internet measurements},
-	abstract = {Cloud datacenter to user connectivity dataset collected over RIPE Atlas. The dataset accompanies research article "Surrounded by the Cloud" accepted at The Web Conference 2021},
-	language = {en},
+@inproceedings{corneo2021surrounded,
+  author       = {Corneo, Lorenzo and Eder, Maximilian and Mohan,
+                  Nitinder and Zavodovski, Aleksandr and Bayhan, Suzan
+                  and Wong, Walter and Gunningberg, Per and
+                  Kangasharju, Jussi and Ott, J\"{o}rg},
+  title        = {Surrounded by the Clouds: A Comprehensive Cloud
+                  Reachability Study},
+  year         = 2021,
+  isbn         = 9781450383127,
+  publisher    = {Association for Computing Machinery},
+  address      = {New York, NY, USA},
+  url          = {https://doi.org/10.1145/3442381.3449854},
+  doi          = {10.1145/3442381.3449854},
+  abstract     = { In the early days of cloud computing, datacenters
+                  were sparsely deployed at distant locations far from
+                  end-users with high end-to-end communication
+                  latency. However, today’s cloud datacenters have
+                  become more geographically spread, the bandwidth of
+                  the networks keeps increasing, pushing the end-users
+                  latency down. In this paper, we provide a
+                  comprehensive cloud reachability study as we perform
+                  extensive global client-to-cloud latency
+                  measurements towards 189 datacenters from all major
+                  cloud providers. We leverage the well-known
+                  measurement platform RIPE Atlas, involving up to
+                  8500 probes deployed in heterogeneous environments,
+                  e.g., home and offices. Our goal is to evaluate the
+                  suitability of modern cloud environments for various
+                  current and predicted applications. We achieve this
+                  by comparing our latency measurements against known
+                  human perception thresholds and are able to draw
+                  inferences on the suitability of current clouds for
+                  novel applications, such as augmented reality. Our
+                  results indicate that the current cloud coverage can
+                  easily support several latency-critical
+                  applications, like cloud gaming, for the majority of
+                  the world’s population.},
+  booktitle    = {Proceedings of the Web Conference 2021},
+  pages        = {295–304},
+  numpages     = 10,
+  keywords     = {Internet measurements, Cloud reachability},
+  location     = {Ljubljana, Slovenia},
+  series       = {WWW '21}
 }
+
 ```
 
 The data consists of a 60GB SQLite3 database that contains all the
